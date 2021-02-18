@@ -1,0 +1,7 @@
+C:\Users\jtpla\source\repos\GoldBadgeChallenges\Challenge3\obj\Debug\Challenge3.csprojAssemblyReference.cache
+C:\Users\jtpla\source\repos\GoldBadgeChallenges\Challenge3\obj\Debug\Challenge3.csproj.CoreCompileInputs.cache
+C:\Users\jtpla\source\repos\GoldBadgeChallenges\Challenge3\bin\Debug\Challenge3.exe.config
+C:\Users\jtpla\source\repos\GoldBadgeChallenges\Challenge3\bin\Debug\Challenge3.exe
+C:\Users\jtpla\source\repos\GoldBadgeChallenges\Challenge3\bin\Debug\Challenge3.pdb
+C:\Users\jtpla\source\repos\GoldBadgeChallenges\Challenge3\obj\Debug\Challenge3.exe
+C:\Users\jtpla\source\repos\GoldBadgeChallenges\Challenge3\obj\Debug\Challenge3.pdb
